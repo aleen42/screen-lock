@@ -1,0 +1,26 @@
+{
+  "name": "@aleen42/screen-lock",
+  "version": "1.0.1",
+  "description": "A simple implementation of screen lock feature but it is quite safe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleen42/screen-lock.js.git"
+  },
+  "keywords": [
+    "screen-lock",
+    "javascript"
+  ],
+  "author": "Aleen <aleen42@vip.qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleen42/screen-lock.js/issues"
+  },
+  "homepage": "https://github.com/aleen42/screen-lock.js#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
